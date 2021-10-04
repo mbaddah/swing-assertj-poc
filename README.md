@@ -7,6 +7,8 @@ Tech-stack:
 * Junit
 * AssertJ
 
+To launch the tests simlpy run `./gradlew test` from command line .
+
 TO-DO:
 - Expand swing app with more features
 - Add more tests
